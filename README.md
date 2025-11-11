@@ -19,7 +19,7 @@
   <img width="20" /> 
   <img height="200" src="https://media1.tenor.com/m/khHx7FIDD_4AAAAC/neco-arc-transparent.gif" alt="Animated GIF 2" />
   <img width="20" />
-  <img height="200" src="https://media.tenor.com/b9J-yU83-C8AAAAC/neco-arc-run.gif" alt="Animated GIF 3" /> 
+  <img height="200" src="https://media1.tenor.com/m/fMQsBOaIC04AAAAd/pene.gif" alt="Animated GIF 3" /> 
 </div>
 
 ---
