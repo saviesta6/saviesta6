@@ -10,9 +10,11 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media.tenor.com/FjM47Bbg7I0AAAAi/neco-arc-dance.gif" alt="Animated GIF 1" />
+<div align="center">
   <img height="200" src="hhttps://media1.tenor.com/m/khHx7FIDD_4AAAAC/neco-arc-transparent.gif" alt="Animated GIF 2" />
+<div align="right">
   <img height="200" src="https://media1.tenor.com/m/fMQsBOaIC04AAAAd/pene.gif" alt="Animated GIF 3" />
 </div>
 
@@ -21,7 +23,7 @@
 ## 📫 Connect with Me
 
 <div align="left">
-  <a href="www.youtube.com/@CE46WongsathonPhoowarachai">
+  <a href="https://www.youtube.com/@CE46WongsathonPhoowarachai">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
   
