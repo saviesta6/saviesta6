@@ -1,6 +1,8 @@
-<h1 align="left">Hi 👋! My name is Wongsathon Phoowarachai and I'm a Computer engineering Scholar from Thailand.</h1>
+<h1 align="left">Hi 👋! My name is **Wongsathon Phoowarachai** and I'm a **Computer engineering Scholar** from **Thailand**.</h1>
 
 <p align="left">Hello World!!</p>
+
+## 🛠️ My Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -10,11 +12,12 @@
 
 ---
 
-<div align="left">
-  <img height="200" src="https://media.tenor.com/FjM47Bbg7I0AAAAi/neco-arc-dance.gif" alt="Animated GIF 1" />
+## 😄 My Vibe / Motivation
+
 <div align="center">
-  <img height="200" src="hhttps://media1.tenor.com/m/khHx7FIDD_4AAAAC/neco-arc-transparent.gif" alt="Animated GIF 2" />
-<div align="right">
+  <img height="200" src="https://media.tenor.com/FjM47Bbg7I0AAAAi/neco-arc-dance.gif" alt="Animated GIF 1" />
+  <img width="20" /> <img height="200" src="https://media1.tenor.com/m/khHx7FIDD_4AAAAC/neco-arc-transparent.gif" alt="Animated GIF 2" />
+  <img width="20" />
   <img height="200" src="https://media1.tenor.com/m/fMQsBOaIC04AAAAd/pene.gif" alt="Animated GIF 3" />
 </div>
 
@@ -30,6 +33,6 @@
   <a href="https://www.instagram.com/wong.sathon">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  </div>
+</div>
 
 ---
