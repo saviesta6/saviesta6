@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋! My name is Wongsathon Phoowarachai and I'm a Computer engineering student from Thailand.</h1>
+<h1 align="center">Hi 👋! My name is Wongsathon Phoowarachai and I'm a Computer engineering student from Thailand.(And I love Neko Arc!!)</h1>
+<h2 align="center">I came ,I saw ,I showmeat</h2>
 
-<div align="center">
-  <h2>And I love Neko Arc!!</h2>
-</div>
 <div align="center">
 <table >
   <tr>
