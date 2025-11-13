@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is **Wongsathon Phoowarachai** and I'm a **Computer engineering student** from **Thailand**.</h1>
+<h1 align="center">Hi 👋! My name is Wongsathon Phoowarachai and I'm a Computer engineering student from Thailand.</h1>
 
 <p align="center">And I love Neko Arc!!</p>
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 😄 My Vibe / Motivation
+## 😄 My Vibes
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/FjM47Bbg7I0AAAAi/neco-arc-dance.gif" alt="Animated GIF 1" />
@@ -57,7 +57,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Contact Me
 
 <div align="left">
   <a href="mailto:67991046@kmitl.ac.th">
@@ -66,6 +66,10 @@
   
   <a href="https://www.instagram.com/wong.sathon">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  
+  <a href="https://line.me/ti/p/NY6xeOlaCX">
+    <img src="https://img.shields.io/static/v1?message=Line&logo=line&label=&color=00B900&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="line logo" />
   </a>
   
 </div>
