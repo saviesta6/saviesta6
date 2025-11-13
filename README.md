@@ -2,7 +2,7 @@
 
 <p align="left">Hello World!!</p>
 
-## My Tech Stack
+## Programming language
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -19,7 +19,8 @@
   <img width="20" /> 
   <img height="200" src="https://media1.tenor.com/m/khHx7FIDD_4AAAAC/neco-arc-transparent.gif" alt="Animated GIF 2" />
   <img width="20" />
-  <img height="200" src="https://media1.tenor.com/m/fMQsBOaIC04AAAAd/pene.gif" alt="Animated GIF 3" /> 
+  <img height="200" src="https://media1.tenor.com/m/fMQsBOaIC04AAAAd/pene.gif" alt="Animated GIF3" />
+  <img width="20">
 </div>
 
 ---
