@@ -3,11 +3,8 @@
 <div align="center">
   <h2>And I love Neko Arc!!</h2>
 </div>
-
----
-
 <div align="center">
-<table>
+<table >
   <tr>
     <td width="20%" valign="top" align="center">
       <img height="100" src="https://media.tenor.com/FjM47Bbg7I0AAAAi/neco-arc-dance.gif" alt="Animated GIF 1" /><br/>
@@ -46,7 +43,7 @@
   </tr>
 </table>
 </div>
----
+
 
 ## 💻 Programming Languages
 
