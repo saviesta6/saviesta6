@@ -1,7 +1,23 @@
-<h1 align="center">Hi! My name is Wongsathon Phoowarachai and I'm a Computer engineering student from Thailand.</h1>
+<h1 align="center">Hi 👋! My name is **Wongsathon Phoowarachai** and I'm a **Computer engineering student** from **Thailand**.</h1>
+
 <div align="center">
-<pre>
-  <h2 align="center">And I love Neko Arc!!</h2>
+  <h2>And I love Neko Arc!!</h2>
+</div>
+
+---
+
+<div align="center">
+<table>
+  <tr>
+    <td width="20%" valign="top" align="center">
+      <img height="100" src="https://media.tenor.com/FjM47Bbg7I0AAAAi/neco-arc-dance.gif" alt="Animated GIF 1" /><br/>
+      <img height="100" src="https://media.tenor.com/OrFB82k1fdAAAAAi/necoarc.gif" alt="Animated GIF 2" /><br/>
+      <img height="100" src="https://media.tenor.com/5CEioEpeBlAAAAAi/neco-arc-teleport.gif" alt="Animated GIF 3" />
+      <img height="100" src="https://media.tenor.com/tiqWiqxLpIwAAAAi/neco.gif" alt="animated gif4" />
+   
+    
+  <td width="60%" valign="top" align="center">
+      <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠤⢤⡀⠀⢀⡤⠒⠢⣀⡠⠴⠒⢂⣠⡽⢧⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠊⠁⠀⠀⠀⠈⠓⠁⠀⠀⠀⠀⢠⣴⣾⣿⣟⣁⢸⡇⠀⠀
 ⣀⠀⠠⠤⠤⠔⠒⠒⠛⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠈⠻⣤⢶⡭⠟⢻⡇⠀⠀
@@ -20,10 +36,16 @@
 ⠀⠀⠀⠀⠀⠉⠀⠀⠉⠱⡌⣹⣃⣠⣴⠾⢽⡀⠀⠀⠀⠀⠀⠀⢸⠏⢀⣀⣼⠃⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠁⠘⡀⠀⣏⠀⠀⠀⠀⠀⠀⢸⡀⢀⠈⢃⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣇⠀⢸⡆⠀⠀⠀⠀⠀⣠⡇⠀⠁⢸⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⢺⣏⣿⣿⣿⣿⣿⣿⣷⣶⣶⣾⣿⣇⣀⣠⡞⠀⠀⠀     
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⢺⣏⣿⣿⣿⣿⣿⣿⣷⣶⣶⣾⣿⣇⣀⣠⡞⠀⠀⠀     
 </pre>
+    <td width="20%" valign="top" align="center">
+      <img height="100" src="https://media.tenor.com/fbHoUPUN6KsAAAAi/neco-arc-neco.gif" alt="Animated GIF 1" /><br/>
+      <img height="100" src="https://media.tenor.com/Z_XRRxdEbv4AAAAi/necoarc-melty-blood.gif" alt="Animated GIF 2" /><br/>
+      <img height="100" src="https://media.tenor.com/PiVwJiTSZscAAAAi/neco-arc.gif" alt="Animated GIF 3" />
+      <img height="100" src="https://media.tenor.com/wxCAqYWQ930AAAAi/necoarc-meltyblood.gif" alt="animated gif 4" />
+  </tr>
+</table>
 </div>
-
 ---
 
 ## 💻 Programming Languages
@@ -37,18 +59,6 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo (Clickable)" />
   </a>
-</div>
-
----
-
-## 😄 My Vibes
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/FjM47Bbg7I0AAAAi/neco-arc-dance.gif" alt="Animated GIF 1" />
-  <img width="20" /> 
-  <img height="200" src="https://media1.tenor.com/m/khHx7FIDD_4AAAAC/neco-arc-transparent.gif" alt="Animated GIF 2" />
-  <img width="20" />
-  <img height="200" src="https://media.tenor.com/5CEioEpeBlAAAAAi/neco-arc-teleport.gif" alt="Animated GIF3" />
 </div>
 
 ---
@@ -67,7 +77,6 @@
   <a href="https://line.me/ti/p/NY6xeOlaCX">
     <img src="https://img.shields.io/static/v1?message=Line&logo=line&label=&color=00B900&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="line logo" />
   </a>
-  
 </div>
 
 ---
